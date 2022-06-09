@@ -8,7 +8,7 @@ L’objectiu final del projecte és veure si les explicacions de les diferents t
 donant-li confiança i transparència a la predicció d’un algorisme d’intel·ligència artificial. 
 
 ## Contingut
-En el respositori "image_explainability" es troben un seguit d'arxius a comentar:
+En el respositori "image_explainability" es troben un seguit d'arxius:
 
 1. "Estudi_Explicabilitat_imatge.ipynb" on es mostra tot el treball, incloent l'anàlisi de dades, les mètriques del model entrenat i 
 l'aplicació de les tècniques d'explicabilitat amb la seva parametrització. 
