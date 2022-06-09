@@ -19,7 +19,9 @@ Per tal de poder executar els dos documents de codi són necessaris els següent
 
 1. El conjunt de dades en format .ZIP. Conté totes les imatges separades primer en dues carpetes de 'train' i 'test' i posteriorment dividies segons si pertànyen a
 la classe 'PNEUMONIA' o 'NORMAL'. 
-Aquest enllaç dirigeix a Google Drive on pot ser descarregada: https://drive.google.com/file/d/16FaEPf5yEZg9x1OTUgLxYUHTSQ5ZBkPU/view?usp=sharing
+Aquest enllaç dirigeix a Google Drive on pot ser descarregat: https://drive.google.com/file/d/16FaEPf5yEZg9x1OTUgLxYUHTSQ5ZBkPU/view?usp=sharing
 
 2. El model en format .h5. És entrenat i descarregat en "model_entrenat_MobileNet.ipynb" i s'utilitza en "Estudi_Explicabilitat_imatge.ipynb" per dur a terme l'estudi.
 Aquest enllaç dirigeix a Google Drive on pot ser descarregat: https://drive.google.com/file/d/1sKxTvxzpbV1QNs87oyo_5RifZkrDmDj1/view?usp=sharing
+
+### Recomanacions
