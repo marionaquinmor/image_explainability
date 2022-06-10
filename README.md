@@ -25,7 +25,7 @@ Aquest enllaç dirigeix a Google Drive on pot ser descarregat: https://drive.goo
 Aquest enllaç dirigeix a Google Drive on pot ser descarregat: https://drive.google.com/file/d/1sKxTvxzpbV1QNs87oyo_5RifZkrDmDj1/view?usp=sharing
 
 ### Recomanacions
-Els arxius del repoitori poden ser descarregats si es prem el botó verd "Code" de la dreta i es seleccionar la descàrrega en format ZIP. Per poder executar els 
+Els arxius del repositori poden ser descarregats si es prem el botó verd "Code" de la dreta i es seleccionar la descàrrega en format ZIP. Per poder executar els 
 notebooks proporcionats és necessari disposar d'una plataforma que suporti l'extensió IPYNB com podria ser Jupyter Notebook o Google Colab.
 
 El temps d'execució d'ambdós arxius pot ser molt elevat. 
