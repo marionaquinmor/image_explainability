@@ -8,20 +8,22 @@ L’objectiu final del projecte és veure si les explicacions de les diferents t
 donant-li confiança i transparència a la predicció d’un algorisme d’intel·ligència artificial. 
 
 ## Contingut
-En el respositori "image_explainability" es troben un seguit d'arxius:
+En el repositori "image_explainability" es troben un seguit d'arxius:
 
-1. "Estudi_Explicabilitat_imatge.ipynb" on es mostra tot el treball, incloent l'anàlisi de dades, les mètriques del model entrenat i 
+1. "Estudi_Explicabilitat_imatge.ipynb" on es mostra tot el treball, incloent-hi l'anàlisi de dades, les mètriques del model entrenat i 
 l'aplicació de les tècniques d'explicabilitat amb la seva parametrització. 
 
 2. "model_entrenat_MobileNet.ipynb" on es troba l'entrenament del model utilitzat en el document esmentat anteriorment.
 
 Per tal de poder executar els dos documents de codi són necessaris els següents fitxers:
 
-1. El conjunt de dades en format .ZIP. Conté totes les imatges separades primer en dues carpetes de 'train' i 'test' i posteriorment dividies segons si pertànyen a
+1. El conjunt de dades en format .ZIP. Conté totes les imatges separades primer en dues carpetes de 'train' i 'test' i posteriorment dividies segons si pertanyen a
 la classe 'PNEUMONIA' o 'NORMAL'. 
 Aquest enllaç dirigeix a Google Drive on pot ser descarregat: https://drive.google.com/file/d/16FaEPf5yEZg9x1OTUgLxYUHTSQ5ZBkPU/view?usp=sharing
 
-2. El model en format .h5. És entrenat i descarregat en "model_entrenat_MobileNet.ipynb" i s'utilitza en "Estudi_Explicabilitat_imatge.ipynb" per dur a terme l'estudi.
+2. El model en format .h5. És entrenat i descarregat en "model_entrenat_MobileNet.ipynb" i es fa ús en "Estudi_Explicabilitat_imatge.ipynb" per dur a terme l'estudi.
 Aquest enllaç dirigeix a Google Drive on pot ser descarregat: https://drive.google.com/file/d/1sKxTvxzpbV1QNs87oyo_5RifZkrDmDj1/view?usp=sharing
 
 ### Recomanacions
+Els arxius del repoitori poden ser descarregats si es prem el botó verd "Code" de la dreta i es seleccionar la descàrrega en format ZIP. Per poder executar els 
+notebooks proporcionats és necessari disposar d'una plataforma que suporti l'extensió IPYNB com podria ser Jupyter Notebook o Google Colab. 
